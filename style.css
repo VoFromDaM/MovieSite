@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(255, 255, 255);
+}
+img {
+    Width: 205px;
+    Height: 300px;
+}
+body{
+    color: aliceblue;
+    background-image:url(./assets/roll-bounce.gif);
+    background-size: contain;
+}
+
+
